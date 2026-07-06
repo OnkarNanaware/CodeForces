@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 11 |
+| 30 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (1)
@@ -31,6 +31,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
+| 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
 
 ### brute force
 
