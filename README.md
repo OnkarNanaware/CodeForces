@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 40 | 14 |
+| 41 | 14 |
 
 ---
 
@@ -20,8 +20,8 @@
 - [dp](#dp) (1)
 - [games](#games) (2)
 - [greedy](#greedy) (11)
-- [implementation](#implementation) (18)
-- [math](#math) (18)
+- [implementation](#implementation) (19)
+- [math](#math) (19)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (4)
 - [strings](#strings) (5)
@@ -120,6 +120,7 @@
 | 1300B | [Assigning to Classes](https://codeforces.com/contest/1300/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1300/B%20-%20Assigning%20to%20Classes/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
+| 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
@@ -133,6 +134,7 @@
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
+| 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
