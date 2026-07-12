@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 42 | 15 |
+| 43 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (2)
-- [brute force](#brute-force) (6)
+- [bitmasks](#bitmasks) (1)
+- [brute force](#brute-force) (7)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (9)
 - [data structures](#data-structures) (1)
@@ -37,12 +38,19 @@
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
 
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
+
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
+| 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
