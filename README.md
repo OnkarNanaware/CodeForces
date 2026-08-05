@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 70 | 16 |
+| 71 | 16 |
 
 ---
 
@@ -16,16 +16,16 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (15)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (13)
+- [constructive algorithms](#constructive-algorithms) (14)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (1)
 - [games](#games) (2)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (23)
+- [greedy](#greedy) (24)
 - [implementation](#implementation) (26)
 - [math](#math) (30)
 - [number theory](#number-theory) (7)
-- [sortings](#sortings) (6)
+- [sortings](#sortings) (7)
 - [strings](#strings) (6)
 - [two pointers](#two-pointers) (2)
 
@@ -80,6 +80,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
+| 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
@@ -126,6 +127,7 @@
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 | 1300B | [Assigning to Classes](https://codeforces.com/contest/1300/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1300/B%20-%20Assigning%20to%20Classes/solution.cpp) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
+| 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
 | 1666D | [Deletive Editing](https://codeforces.com/contest/1666/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1666/D%20-%20Deletive%20Editing/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
@@ -231,6 +233,7 @@
 |---|---------|------------|----------|
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 1300B | [Assigning to Classes](https://codeforces.com/contest/1300/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1300/B%20-%20Assigning%20to%20Classes/solution.cpp) |
+| 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
