@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 76 | 16 |
+| 77 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (8)
+- [Uncategorized](#uncategorized) (9)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (15)
 - [combinatorics](#combinatorics) (2)
@@ -43,6 +43,7 @@
 | 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.cpp) |
 | 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
+| 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
 
 ### bitmasks
 
