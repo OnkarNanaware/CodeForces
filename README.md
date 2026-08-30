@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 90 | 17 |
+| 91 | 17 |
 
 ---
 
@@ -19,12 +19,12 @@
 - [constructive algorithms](#constructive-algorithms) (16)
 - [data structures](#data-structures) (3)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (3)
+- [dp](#dp) (4)
 - [games](#games) (3)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (30)
 - [implementation](#implementation) (27)
-- [math](#math) (42)
+- [math](#math) (43)
 - [number theory](#number-theory) (10)
 - [sortings](#sortings) (7)
 - [strings](#strings) (9)
@@ -122,6 +122,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
+| 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
 | 2163C | [Monopati](https://codeforces.com/contest/2163/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/2163/C%20-%20Monopati/solution.cpp) |
 | 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/2252/B%20-%20Always%20Changing/solution.cpp) |
 
@@ -247,6 +248,7 @@
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.cpp) |
 | 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.cpp) |
+| 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 2086A | [Cloudberry Jam](https://codeforces.com/contest/2086/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/2086/A%20-%20Cloudberry%20Jam/solution.cpp) |
