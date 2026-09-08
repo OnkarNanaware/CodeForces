@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 92 | 17 |
+| 93 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (10)
+- [Uncategorized](#uncategorized) (11)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (16)
 - [combinatorics](#combinatorics) (3)
@@ -46,6 +46,7 @@
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
 | 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
+| 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
 
 ### bitmasks
 
