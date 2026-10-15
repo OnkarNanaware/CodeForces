@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 95 | 17 |
+| 96 | 17 |
 
 ---
 
@@ -23,11 +23,11 @@
 - [games](#games) (3)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (31)
-- [implementation](#implementation) (27)
+- [implementation](#implementation) (28)
 - [math](#math) (43)
 - [number theory](#number-theory) (10)
 - [sortings](#sortings) (7)
-- [strings](#strings) (9)
+- [strings](#strings) (10)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -211,6 +211,7 @@
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
+| 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.cpp) |
 
 ### math
 
@@ -300,6 +301,7 @@
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1913B | [Swap and Delete](https://codeforces.com/contest/1913/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/1913/B%20-%20Swap%20and%20Delete/solution.cpp) |
 | 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/2252/B%20-%20Always%20Changing/solution.cpp) |
+| 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/OnkarNanaware/CodeForces/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.cpp) |
 
 ### two pointers
 
